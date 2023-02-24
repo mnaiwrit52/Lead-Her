@@ -95,3 +95,11 @@ button[type="submit"]:hover {
 	font-weight: 600;
 	text-decoration: none;
 }
+
+button:first-of-type {
+	margin-bottom: 10px;
+}
+
+.input-container input{
+	width: 95%;
+}
