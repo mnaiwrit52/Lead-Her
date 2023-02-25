@@ -31,7 +31,7 @@ body {
 	font-weight: 400;
 	margin-bottom: 24px;
 	text-align: center;
-	color: #0077B5;
+	color: #158F9C;
 }
 
 form {
@@ -64,12 +64,12 @@ select {
 input:focus,
 select:focus {
 	outline: none;
-	box-shadow: 0 0 2px #0077B5;
+	box-shadow: 0 0 2px #158F9C;
 }
 
 button[type="submit"] {
 	padding: 16px;
-	background-color: #0077B5;
+	background-color: #158F9C;
 	color: #fff;
 	font-size: 16px;
 	font-weight: 600;
@@ -80,7 +80,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-	background-color: #006097;
+	background-color: #158F9C;
 }
 
 .signup {
@@ -91,7 +91,7 @@ button[type="submit"]:hover {
 }
 
 .signup a {
-	color: #0077B5;
+	color: #158F9C;
 	font-weight: 600;
 	text-decoration: none;
 }
