@@ -391,3 +391,20 @@
     padding-right: 0;
     border-right: none;
 }
+
+img{
+    object-fit: cover;
+}
+
+.like-counter {
+    color: #000;
+    text-decoration: none;
+    margin-right: 5px;
+}
+.like-counter:hover {
+      text-decoration: underline;
+    }
+    
+  .liked {
+    font-weight: bold;
+  }
