@@ -4,6 +4,9 @@ body{
     background-size: cover;
 }
 
+.navbar-brand a{
+  color: #7a6cad !important;
+}
 
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);

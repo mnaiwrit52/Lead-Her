@@ -103,3 +103,17 @@ button:first-of-type {
 .input-container input{
 	width: 95%;
 }
+
+.like-counter {
+	color: #000;
+	text-decoration: none;
+	margin-right: 5px;
+}
+	
+.like-counnter:hover {
+	  text-decoration: underline;
+}
+
+  .liked {
+	font-weight: bold;
+  }
