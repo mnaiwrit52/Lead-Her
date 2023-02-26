@@ -1,15 +1,6 @@
 # Lead-Her
 
-<span style="display:block;text-align:center">
 
-[![Made With][made-with-shield]](https://github.com/mnaiwrit52/Lead-Her/contributors)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-</span>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -53,7 +44,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+  
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -88,23 +79,17 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+- Windows/Linux/Macos operating system
+- Git/Github
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-1. Clone the repo
+ Clone the repo
    ```sh
-   git clone https://github.com/kanitmann/hackathon_readme_template.git
+   git clone https://github.com/mnaiwrit52/Lead-Her.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+
 
 <!-- USAGE EXAMPLES -->
 
@@ -112,13 +97,11 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<!-- ROADMAP -->
 
-## Roadmap
 
-See the [open issues](https://github.com/kanitmann/hackathon_readme_template/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -136,31 +119,14 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the SATA License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
-<!-- ACKNOWLEDGEMENTS -->
+## Made with 💗 by Team Codaholics 
 
-## Acknowledgements
 
-- []()
-- []()
-- []()
 
-> Made with 💗 by Team Codaholics
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[contributors-url]: https://github.com/kanitmann/hackathon_readme_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[forks-url]: https://github.com/kanitmann/hackathon_readme_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[stars-url]: https://github.com/kanitmann/hackathon_readme_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[issues-url]: https://github.com/kanitmann/hackathon_readme_template/issues
-[license-shield]: https://img.shields.io/badge/license-SATA-blue?style=for-the-badge&logo=appveyor
-[license-url]: https://github.com/kanitmann/hackathon_readme_template/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/github/languages/top/kanitmann/hackathon_readme_template?style=for-the-badge
-[made-with-url]: https://shields.io/github/languages/top/kanitmann/hackathon_readme_template.svg?style-for-the-badge
-[product-screenshot]: (images/screenshot.png)
+
+
+
