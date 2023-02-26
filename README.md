@@ -1,12 +1,12 @@
-# Lead-Her
+# LeadHer
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kanitmann/hackathon_readme_template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mnaiwrit52/Lead-Her">
+    <img src="Assets/LeadHer.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">LeadHer-Readme</h3>
@@ -54,8 +54,9 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![LeadHer][product-screenshot]](https://lead-her.netlify.app/index.html)
+<p align="center">
+  <img src="Assets/ssweb.png" alt="Logo" width="auto" height="auto">
+  <p/>
 <br>Welcome to Lead Her, a website dedicated to empowering women to become leaders in their communities, workplaces, and personal lives. Our mission is to break down barriers and create opportunities for women to thrive in leadership roles. We do this by offering a variety of networking opportunities, and mentorship programs. We also provide a platform for women to share their stories, experiences, and insights with each other. Join us on this journey of empowerment and leadership. Let's Lead Her together
 
 ✅Find the best community and chat
