@@ -18,19 +18,20 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hackathon Readme Template</h3>
+  <h3 align="center">LeadHer-Readme</h3>
 
   <p align="center">
-    Description Sample
+  Our website is dedicated to empowering women from all walks of life by providing them with the tools and resources they need to achieve their goals and aspirations.   Our communities allow women to connect with like-minded people, share their stories and learn from each other's experiences. We at LeadHer is focused on women    empowerment and community development by offering every women with many Mentorship Programs. Join our community today and start your journey towards empowerment and community development!
+  <br />
     <br />
-    <a href="https://github.com/kanitmann/hackathon_readme_template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mnaiwrit52/Lead-Her"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/kanitmann/hackathon_readme_template">View Demo</a>
-    ·
-    <a href="https://github.com/kanitmann/hackathon_readme_template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/kanitmann/hackathon_readme_template/issues">Request Feature</a>
+    <a href="https://lead-her.netlify.app/index.html">View Demo</a>
+    
+
+   
+
   </p>
 </p>
 
@@ -63,13 +64,21 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![LeadHer][product-screenshot]](https://lead-her.netlify.app/index.html)
+<br>Welcome to Lead Her, a website dedicated to empowering women to become leaders in their communities, workplaces, and personal lives. Our mission is to break down barriers and create opportunities for women to thrive in leadership roles. We do this by offering a variety of networking opportunities, and mentorship programs. We also provide a platform for women to share their stories, experiences, and insights with each other. Join us on this journey of empowerment and leadership. Let's Lead Her together
+
+✅Find the best community and chat
+
+✅Mentorship Programs and events
+
+✅Share your story with others
 
 ### Built With
 
-- []()
-- []()
-- []()
+- [HTML]()
+- [CSS]()
+- [BOOTSTRAP]()
+- [JAVASCRIPT]()
 
 <!-- GETTING STARTED -->
 
@@ -137,7 +146,7 @@ Distributed under the SATA License. See `LICENSE` for more information.
 - []()
 - []()
 
-> Made with 💙 by Kanit Mann
+> Made with 💗 by Team Codaholics
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
