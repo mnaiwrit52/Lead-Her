@@ -71,6 +71,9 @@
 - [CSS]()
 - [BOOTSTRAP]()
 - [JAVASCRIPT]()
+- [ANDROID STUDIO]()
+- [JAVA]()
+- [XML]()
 
 <!-- GETTING STARTED -->
 
